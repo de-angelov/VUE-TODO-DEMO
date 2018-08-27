@@ -5,5 +5,5 @@
 
 **To Start**
 
-enter frontend folder and type:  'npm install' & 'npm run start'
+enter frontend folder and type:  'npm install' & 'npm run serve'
 enter backtend folder and type:  'npm install' & 'npm start'
