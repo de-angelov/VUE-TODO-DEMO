@@ -41,7 +41,7 @@ export default {
         tasks: Object.assign({}, this.tasks),
       }
       Vue.axios.post("http://localhost:4000", body)
-        .then((res) => {});
+        .then(() => {});
     },
     getList() {
       Vue.axios.get("http://localhost:4000")
