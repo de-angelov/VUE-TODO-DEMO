@@ -1,7 +1,7 @@
 **Vue ToDo Demo**
 
-'port 4000': Node.js stores information in a data.json<br />
-'port 8080': Vue adds,removes changes status of a task<br />
+'port 4000': Node.js stores information in a data.json <br />
+'port 8080': Vue adds,removes and changes status of a task<br />
 
 **To Start**
 
